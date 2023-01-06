@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/zom/static/css/main.6c11002b.css",
+    "main.js": "/github.io/zom/static/js/main.8e12d2fa.js",
+    "static/js/787.0b997b74.chunk.js": "/github.io/zom/static/js/787.0b997b74.chunk.js",
+    "index.html": "/github.io/zom/index.html",
+    "main.6c11002b.css.map": "/github.io/zom/static/css/main.6c11002b.css.map",
+    "main.8e12d2fa.js.map": "/github.io/zom/static/js/main.8e12d2fa.js.map",
+    "787.0b997b74.chunk.js.map": "/github.io/zom/static/js/787.0b997b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c11002b.css",
+    "static/js/main.8e12d2fa.js"
+  ]
+}
